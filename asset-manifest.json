@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-flipping-card-component/static/css/main.dd7288b7.css",
+    "main.js": "/react-flipping-card-component/static/js/main.a85ead3c.js",
+    "static/media/chip.png": "/react-flipping-card-component/static/media/chip.b6926c3415349e11528e.png",
+    "index.html": "/react-flipping-card-component/index.html",
+    "main.dd7288b7.css.map": "/react-flipping-card-component/static/css/main.dd7288b7.css.map",
+    "main.a85ead3c.js.map": "/react-flipping-card-component/static/js/main.a85ead3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7288b7.css",
+    "static/js/main.a85ead3c.js"
+  ]
+}
