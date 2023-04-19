@@ -1,1 +1,1 @@
-# React Flipping Card Component
+# Flipping Card Component
